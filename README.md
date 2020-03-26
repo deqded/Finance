@@ -243,20 +243,16 @@ Cell 40
 
 Visualize historical data
 
-
-Cell 41
-
-
 Visualize forecasted model
 
 
-Cell 42
+Cell 41
 
 
 Visualize forecasted model overlayed with historical data
 
 
-Cell 43
+Cell 42
 
 
 Visualize forecasted model overlayed with historical data with an x limit
